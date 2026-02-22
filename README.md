@@ -1,2 +1,2 @@
 # Perfect-Guess
-Guess the computer number
+Guess the computer's number
